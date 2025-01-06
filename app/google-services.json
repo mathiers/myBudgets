@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647352264238",
+    "project_id": "fluid-booking-149607",
+    "storage_bucket": "fluid-booking-149607.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647352264238:android:bc9922b9c70ba7a705e1bf",
+        "android_client_info": {
+          "package_name": "com.tees.mybudgets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqqvsciorX5__NsamVzbPQPHb9XHivLGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
