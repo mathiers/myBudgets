@@ -204,7 +204,7 @@ fun Profile(navController: NavHostController, budgetViewModel: BudgetViewModel) 
                 )
                 Spacer(modifier = Modifier.width(5.dp))
                 Text(
-                    text = "I want to delete my account and understand that this action cannot be undone.",
+                    text = "I want to delete my account, and understand that this action cannot be undone.",
                     color = Color.Black
                 )
             }
